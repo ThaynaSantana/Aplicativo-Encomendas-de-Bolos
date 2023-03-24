@@ -1,5 +1,7 @@
 
 # 🍰 Aplicativo Encomendas de Bolos
+![image](https://user-images.githubusercontent.com/88935936/227401184-0513b4c5-56be-4dbe-893d-8cb0e6d2be63.png)
+
 Feito por: Thayna Santana<br>
 Contato: thaynas.s502@gmail.com
 
